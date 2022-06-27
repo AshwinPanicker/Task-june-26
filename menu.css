@@ -1,0 +1,33 @@
+h1 {text-align: center;
+    font-size:xx-large;
+    color: #ff006e;}
+    
+
+nav{
+    text-align: right;
+    margin-right: 40px;
+}
+a{
+    color: #4361ee
+}
+
+body {
+    background-color:antiquewhite
+}
+.heading{color:crimson;
+    font-size: larger;
+   
+  
+}
+img {
+    width: 80px;
+}
+.table1 {
+    margin-left: 100px;
+    width: 30%;
+}
+.table2 {
+    margin-left: 800px;
+ position: relative;bottom: 622px;
+ width: 30%;
+}
